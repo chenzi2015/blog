@@ -1,0 +1,2 @@
+# blog
+zinnia django blog
